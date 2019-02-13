@@ -6,6 +6,7 @@
 // 5. Create the autoPlay function
 // 6. Create the stopAutoPlay function
 
+
 // 1. Create the array of quote objects and name it quotes
 let quotes = [
   // 0
